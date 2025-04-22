@@ -7,6 +7,7 @@
     "lib": ["es2024"],
     "module": "NodeNext",
     "target": "es2024",
+    "declaration": true,
     "emitDeclarationOnly": true,
     "allowImportingTsExtensions": true,
 
